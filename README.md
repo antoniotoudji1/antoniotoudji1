@@ -24,4 +24,4 @@ I operate at the strict convergence of Deep Learning architectures and Offensive
 * **Strategic Consulting:** Acted as an AI security consultant for agent development firms, enforcing robust input/output sanitization layers.
 * **Legal & Governance:** Collaborated with legal experts regarding GDPR compliance applied to autonomous AI systems and current legal gaps.
 
-📥 **Contact:** antonio.redteam1@gmail.com | [Premium Portfolio](https://lovable.dev)
+📥 **Contact:** antonio.redteam1@gmail.com | [Premium Portfolio]([https://lovable.dev](https://linktr.ee/Antniotdj))
